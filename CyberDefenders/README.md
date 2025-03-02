@@ -1,6 +1,6 @@
-# TryHackMe Walkthroughs
+# CyberDefenders Walkthroughs
 
-This folder contains my write-ups for TryHackMe challenges.
+This folder contains my write-ups for CyberDefenders challenges.
 
 | **Challenge / Lab**         | **Category**         | **Difficulty** |
 |---------------------------- |--------------------- |--------------- |

@@ -1,6 +1,6 @@
 # picoCTF Walkthroughs
 
-This folder contains my write-ups for 247CTF challenges.
+This folder contains my write-ups for picoCTF challenges.
 
 | **Challenge / Lab**         | **Category**         | **Difficulty** |
 |---------------------------- |--------------------- |--------------- |

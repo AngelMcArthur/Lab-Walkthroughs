@@ -1,6 +1,6 @@
-# TryHackMe Walkthroughs
+# Security Blue Team Walkthroughs
 
-This folder contains my write-ups for TryHackMe challenges.
+This folder contains my write-ups for Security Blue Team - Blue Team Labs Online (BTLO) challenges.
 
 | **Challenge / Lab**         | **Category**         | **Difficulty** |
 |---------------------------- |--------------------- |--------------- |
